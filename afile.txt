@@ -1,5 +1,7 @@
 line 1
 v1 changes developer 1
+dev ln1
+dev ln2
 line 2
 line 3
 line 4
@@ -10,6 +12,4 @@ dev 2 ln4
 line 6
 line 7
 line 8
-line 9
-
-This line was modified by dev2
+This line was modified by dev1 and dev2
